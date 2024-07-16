@@ -2,8 +2,8 @@
   <head>
   </head>
   <body>
-    <h1>Hello</h1>
-    <img src="assets/rich.jpg">
+    <!--<h1>Hello</h1>-->
+    <img src="assets/rich.jpg" width=200px>
     <img src="https://github-readme-stats.vercel.app/api?username=richardbrunei&show_icons=true&theme=merko">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardbrunei&layout=compact&theme=merko">
     <!--
