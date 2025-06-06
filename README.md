@@ -4,8 +4,8 @@
   <body>
     <!--<h1>Hello</h1>-->
     <img src="assets/rich.jpg" width=200px>
-    <img src="https://github-readme-stats.vercel.app/api?username=richardbrunei&show_icons=true&theme=merko">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardbrunei&layout=compact&theme=merko">
+    <a href="https://github.com/Richardbrunei"><img src="https://github-readme-stats.vercel.app/api?username=richardbrunei&show_icons=true&theme=merko"></a>
+    <a href="https://github.com/Richardbrunei"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardbrunei&layout=compact&theme=merko"></a>
     <!--
     **Richardbrunei/Richardbrunei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     
